@@ -1,8 +1,2 @@
-#!bin/bash
-echo "School">> bash/school
-echo -e #!bin/bashnecho School >> bash/school
-
-
-echo -e #!bin/bashnecho School
-#!bin/bash
-echo "School" 
+#!/bin/bash
+The school is open!
